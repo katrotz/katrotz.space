@@ -341,3 +341,17 @@ a:active {
     color: white;
     padding-left:55px;
 }
+
+#octobiwan{
+    display: block;
+    width: 150px;
+    margin-top: -100px;
+    margin-bottom: 50px;
+    opacity: 0;
+    -o-transition: opacity 2s linear;
+    -moz-transition: opacity 2s linear;
+    -webkit-transition:opacity 2s linear;
+    transition:opacity 2s linear;
+}
+
+.name:hover #octobiwan{opacity: 1;}
