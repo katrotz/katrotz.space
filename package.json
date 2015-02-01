@@ -1,0 +1,15 @@
+{
+  "name": "katrotz.space",
+  "version": "0.1.0",
+  "description": "Personal website",
+  "main": "build/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@bitbucket.org:katrotz/katrotz.space.git"
+  },
+  "author": "katrotz",
+  "license": "ISC"
+}
