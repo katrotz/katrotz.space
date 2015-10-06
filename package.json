@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@bitbucket.org:katrotz/katrotz.space.git"
+    "url": "git@github.com:katrotz/katrotz.space.git"
   },
   "author": "katrotz",
   "license": "ISC"

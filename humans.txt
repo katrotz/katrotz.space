@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    katrotz -- participant -- katrotz[at]gmail.com
 
 # THANKS
 
-    <name>
+    HTML5 Boilerplate
 
 # TECHNOLOGY COLOPHON
 
