@@ -355,4 +355,8 @@ a:active {
     transition:opacity 2s linear;
 }
 
+.name {
+   user-select: none;
+}
+
 .name:hover #octobiwan{opacity: 1;}
