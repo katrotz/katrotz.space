@@ -340,6 +340,7 @@ a:active {
     font-family: "Sweetly Broken";
     color: white;
     padding-left:55px;
+   user-select: none;
 }
 
 #octobiwan{
